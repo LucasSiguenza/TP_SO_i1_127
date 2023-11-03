@@ -5,8 +5,8 @@ RTA: Sí, tras la carga son visibles dado que lo he añadido como colaborador.<b
 RTA: Sí, al ser un repositorio público cualquiera podría verlo.<br>
 # PREGUNTAS DE BETA/GAMMA.<br>
 ## c-¿Si BETA agrega un archivo los demás integrantes lo ven?.<br>
-RTA:.<br>
+RTA: Si  beta  agrega algun archivo al repositorio compartido los demas integrantes los podran ver
 ## d-¿De qué forma se comunicaron ustedes?.<br>
-RTA:.<br>
+RTA: La comunicacion fue hecha via Discord 
 ## e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?.<br>
-RTA:.<br>
+RTA: Podemos hacerlo mediante comentarios en Commits , pero creo que la mejor forma para discutir sobre un problema es mediante los issues de github
